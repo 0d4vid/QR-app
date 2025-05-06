@@ -256,7 +256,7 @@ const styles = StyleSheet.create({
     width: 50,
   },
   logoButton:{
-    backgroundColor:'#84D8FF',
+    backgroundColor:'#84D9FF',
     borderRadius:35,
     padding: 15,
     marginBottom: 20,
